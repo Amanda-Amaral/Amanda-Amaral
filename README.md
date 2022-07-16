@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amanda-Amaral, I'm 27 ya from Rio, BR.
+- 👋 Hi, I’m @Amanda-Amaral, I'm 28 ya from Rio, BR.
 - 👀 I’m interested in improve my data science skills and get a job on this area.
 - 🌱 I’m currently learning more about rock curve and cross validation.
 - 💞️ I’m looking to collaborate on future data science projects in great companies.
