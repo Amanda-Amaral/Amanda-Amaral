@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amanda-Amaral, I'm 30 yo from Florianópolis,BR.
-- 👀 I’m interested in improve my data science skills and get a job on this area.
-- 🌱 I’m currently learning more about rock curve and cross validation.
-- 💞️ I’m looking to collaborate on future data science projects in great companies.
+- 👀 I’m interested in improve my data science skills.
+- 🌱 I’m currently finishing a Data Science Course at Awari.
+- 💞️ I’m looking to collaborate on future data science projects.
 - 📫 Email me on doamaral.amanda@gmail.com
 
 <!---
