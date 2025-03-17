@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Amanda-Amaral, I'm 30 yo from Florianópolis,BR.
+- 👋 Hi, I’m @Amanda-Amaral, I'm 31 yo from Florianópolis,BR.
 - 👀 I’m interested in improve my data science skills.
-- 🌱 I’m currently finishing a Data Science Course at Awari.
+- 🌱 I’m currently graduating in Data Science and Analytics on PUC-Rio.
 - 💞️ I’m looking to collaborate on future data science projects.
 - 📫 Email me on doamaral.amanda@gmail.com
 
