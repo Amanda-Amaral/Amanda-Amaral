@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amanda-Amaral, I'm 31 yo from Florianópolis, BR.
-- 👀 I’m interested in improve my data science skills.
+- 👀 I’m interested in improve my data analytics and data science skills.
 - 📖 Graduated in Chemical Engineering and Postgraduated in Data Science and Analytics on PUC-Rio.
 - 💞️ I’m looking to collaborate on future data science projects.
 - 📫 Email me on doamaral.amanda@gmail.com
